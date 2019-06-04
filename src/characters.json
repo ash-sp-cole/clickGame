@@ -1,0 +1,74 @@
+[
+    {
+      "id": 0,
+      "name": "0",
+      "image": "assets/Images/card.png",
+      "isClicked": false
+    },
+    {
+      "id": 1,
+      "name": "1",
+      "image": "assets/Images/card2.png",
+      "isClicked": false
+    },
+    {
+      "id": 2,
+      "name": "2",
+      "image": "assets/Images/card3.png",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "name": "3",
+      "image": "assets/Images/card4.png",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "name": "4",
+      "image": "assets/Images/card5.png",
+      "isClicked": false
+    },
+    {
+      "id": 5,
+      "name": "5",
+      "image": "assets/Images/card6.png",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "name": "6",
+      "image": "assets/Images/card15.png",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "name": "6",
+      "image": "assets/Images/card10.png",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "name": "8",
+      "image": "assets/Images/card20.png",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "name": "8",
+      "image": "assets/Images/card11.png",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "name": "9",
+      "image": "assets/Images/card17.png",
+      "isClicked": false
+    },
+    {
+      "id": 11,
+      "name": "Tyrion Lannister",
+      "image": "assets/Images/card14.png",
+      "isClicked": false
+    }
+  ]

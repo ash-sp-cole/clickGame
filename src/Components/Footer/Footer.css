@@ -1,0 +1,26 @@
+.footer {
+    background: rgb(114, 64, 102);
+    height: 100px;
+    position: relative;
+    color: black;
+    overflow: auto;
+}
+
+.footer-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background:pink;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.footer img {
+    height: 20px;
+    width: 300px;
+    position: relative;
+    top: 3px;
+    left: 2px;
+   
+}
