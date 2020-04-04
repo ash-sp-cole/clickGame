@@ -76,7 +76,6 @@ class App extends Component {
     return updatedCharacters
   }
 
-
   handleShuffleChararcters = (name) => {
     // this.handleResetWin();
     var resetNeeded = false;
